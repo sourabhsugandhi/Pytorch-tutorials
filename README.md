@@ -13,5 +13,5 @@ Before proceeding with this tutorial, you need knowledge of Python and Anaconda 
 # ANN_Using_PyTorch.ipynb
 Solving Kaggle Pima Diabetes Prediction Using ANN With PyTorch Library
 
-
-
+# Credits - https://github.com/krishnaik06
+# Dataset - https://www.kaggle.com/uciml/pima-indians-diabetes-database
