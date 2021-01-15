@@ -9,3 +9,9 @@ This tutorial has been prepared for python developers who focus on research and 
 # Prerequisites:
 
 Before proceeding with this tutorial, you need knowledge of Python and Anaconda framework (commands used in Anaconda). Having knowledge of artificial intelligence concepts will be an added advantage.
+
+# ANN_Using_PyTorch.ipynb
+Solving Kaggle Pima Diabetes Prediction Using ANN With PyTorch Library
+
+
+
